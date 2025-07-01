@@ -11,7 +11,7 @@ Error Handling: Gracefully handles invalid city names and network issues.
 Emoji-enhanced Output: Weather info is displayed with intuitive emojis for a fun experience.
 
 Sample Screenshots
->![Physics project](https://github.com/user-attachments/assets/05499c57-77ac-4eb7-b21d-e304ed8853cc)
+![weather app work](https://github.com/user-attachments/assets/cd86c023-27a1-46a5-b7c4-e829c2e412d1)
 
 
 🛠️ Requirements
@@ -50,5 +50,8 @@ Enter the name of any city and click Get Weather.
 
 View the current weather details instantly!
 
+❗ Troubleshooting
+City not found: Make sure you enter a valid city name.
 
+No response / errors: Check your internet connection and ensure your API key is correct and active.
 
