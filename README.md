@@ -24,12 +24,12 @@ Free API key from OpenWeatherMap
 Installation
 Clone the repository:
 
-bash
+
 git clone https://github.com/nahianislam90/Live-Weather-App.git
 cd live-weather-app
 Install dependencies:
 
-bash
+
 pip install requests
 Get your OpenWeatherMap API key:
 
@@ -44,7 +44,7 @@ API_KEY = "YOUR_API_KEY_HERE"
 Usage
 Run the app:
 
-bash
+
 python main.py
 Enter the name of any city and click Get Weather.
 
