@@ -25,7 +25,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/nahianislam90/Live-Weather-App-app.git
+git clone https://github.com/nahianislam90/Live-Weather-App.git
 cd live-weather-app
 Install dependencies:
 
